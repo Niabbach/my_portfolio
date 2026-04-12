@@ -42,7 +42,7 @@ export const portfolioData = {
       title: "📄 Mon CV",
       download: "📥 Télécharger le CV",
       
-      education: "🎓 Formations",
+      education: "Formations",
       educationContent: `
 - **Master Informatique parcours Intelligence Artificielle**  
   Université de Caen Normandie *(2026)*  
@@ -54,7 +54,7 @@ export const portfolioData = {
   Université de Lorraine, Nancy *(2020)*  
       `,
       
-      experience: "💼 Expériences",
+      experience: "Expériences",
       experienceContent: `
 - **Liebherr Aerospace Toulouse** – Ingénieur Développement Full Stack *(mars 2026 – sept. 2026)*  
   - Conception et développement d'outils de visualisation de données pour l’analyse de simulations systèmes aéronautiques.  
