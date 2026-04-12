@@ -2,7 +2,7 @@ export const portfolioData = {
   fr: {
     name: "Channel NIANGA",
     title: "Data Scientist & AI Engineer",
-    description: "🎓 Étudiant en Master 2 Informatique parcours Intelligence Artificielle | En recherche d'un stage de fin d'étude | Disponible à partir de Mars 2026",
+    description: "🎓 Titulaire d'un Master 2 Informatique, parcours Intelligence Artificielle | À la recherche d’un CDI à partir de Septembre 2026",
     email: "channeliba@yahoo.com",
     location: "Caen, France",
     github: "https://github.com/Niabbach",
@@ -17,65 +17,96 @@ export const portfolioData = {
 
     home: {
       title: "🌱 Bienvenue sur mon portfolio !",
-      subtitle: "Expert en Intelligence Artificielle, Machine Learning et Deep Learning",
-      intro: "Je m'appelle **Channel NIANGA**, étudiant passionné en **Master Informatique**, parcours **Intelligence Artificielle**, actuellement en recherche de stage de fin d'étude. Mon objectif ? **Contribuer à des projets innovants en IA**, que ce soit en *machine learning*, *deep learning*, *traitement du langage naturel (NLP)* ou *computer vision*.",
+      subtitle: "Ingénieur IA spécialisé en Machine Learning et Deep Learning",
+      intro: "Je m'appelle Channel NIANGA, ingénieur en Intelligence Artificielle avec une solide base en informatique et en ingénierie logicielle. J’ai acquis une expérience dans la conception et le développement de systèmes robustes orientés données. Mes domaines d’intérêt incluent le machine learning, le deep learning, le traitement du langage naturel (NLP) et la vision par ordinateur. Je suis actuellement ouvert à des opportunités en CDI à partir de Septembre 2026.",
       
       whoAmI: {
         title: "🔍 Qui suis-je ?",
-        content: "Étudiant en IA avec une solide base en algorithmique, statistiques et modélisation. Développeur Python expérimenté avec TensorFlow, PyTorch et Scikit-learn. Curieux et rigoureux, j'aime explorer de nouvelles méthodes pour résoudre des problèmes complexes.",
+        content: "Ingénieur en Intelligence Artificielle avec une solide base en algorithmique, statistiques et modélisation. Développeur Python expérimenté, maîtrisant des frameworks tels que TensorFlow, PyTorch et Scikit-learn. Curieux et rigoureux, j’explore et conçois des solutions pour résoudre des problèmes complexes."
       },
       
       whatYouWillFind: {
         title: "🛠 Ce que vous trouverez ici",
-        content: "Mes projets académiques et personnels en IA (classification, prédiction, génération de données, etc.). Mes compétences techniques (Python, SQL, optimisation de modèles...). Mon parcours, mes expériences, et mes ambitions pour un **stage en Master 2**.",
+        content: "Mes projets académiques et personnels en intelligence artificielle (classification, prédiction, génération de données, etc.), ainsi que mes compétences techniques (Python, SQL, optimisation de modèles...). Vous y trouverez également mon parcours, mes expériences et mes ambitions professionnelles en tant qu’ingénieur en IA."
       },
       
       contact: {
-        title: "📫 Envie d'échanger ?",
+        title: "Envie d'échanger ?",
         content: "Contactez-moi sur LinkedIn ou envoyez-moi un mail. Ou encore, rendez-vous dans la section Contact pour m'envoyer un message.",
       },
       
-      quote: "L'IA est un outil puissant pour façonner demain — j'ai hâte d'y contribuer.",
+      quote: "L'IA est un outil puissant pour façonner demain, j'ai hâte d'y contribuer.",
     },
 
     cv: {
       title: "📄 Mon CV",
       download: "📥 Télécharger le CV",
       
-      education: "🎓 Formation",
+      education: "🎓 Formations",
       educationContent: `
-**Master 2 Informatique - Intelligence Artificielle**
-Université de Caen Normandie | 2024-2026
-Spécialisations : Machine Learning, Deep Learning, Computer Vision, NLP
+- **Master Informatique parcours Intelligence Artificielle**  
+  Université de Caen Normandie *(2026)*  
 
-**Licence Informatique**
-Université de Caen Normandie | 2021-2024
-Mention Bien
+- **Licence Informatique**  
+  CNAM Paris *(2023)*  
+
+- **Licence Sciences de l’Ingénieur**  
+  Université de Lorraine, Nancy *(2020)*  
       `,
       
-      experience: "💼 Expérience",
+      experience: "💼 Expériences",
       experienceContent: `
-**Stage en Data Science** (2025)
-Entreprise | Durée : 3 mois
-- Développement de modèles de machine learning
-- Analyse et visualisation de données
-- Optimisation de pipelines de données
+- **Liebherr Aerospace Toulouse** – Ingénieur Développement Full Stack *(mars 2026 – sept. 2026)*  
+  - Conception et développement d'outils de visualisation de données pour l’analyse de simulations systèmes aéronautiques.  
+  - Développement d’interfaces interactives (front-end) pour représenter des données complexes de manière claire et exploitable.  
+  - Mise en place d’un backend Python pour le traitement, l’organisation et l’exposition des données via API.  
+  - Collaboration avec des équipes d’ingénierie système pour définir les besoins fonctionnels et améliorer l’exploitation des modèles.  
+  - Tests, validation des résultats et rédaction de la documentation technique.  
+  **Tech Stack** : Angular(TypeScript,HTML/CSS), Python, Pytest, Pandas, FastAPI, Plotly, Selenuim, Git.  
 
-**Projet Académique - Computer Vision** (2024)
-- Classification d'images avec CNN
-- Utilisation de TensorFlow et PyTorch
-- Résultats : 94% d'accuracy
+- **SNCF Réseau** – Développeur Full Stack *(sept. 2020 – nov. 2023)*  
+  - Développement d’applications web et d’API destinées aux employés ferroviaires.  
+  - Analyse de données et automatisation de rapports.  
+  - Communication des résultats analytiques aux parties prenantes.  
+  - Mise en place de contrôles automatisés pour l’optimisation des processus.  
+  **Tech Stack** : Angular (HTML, CSS, TypeScript), Git, Python, Pandas, FastAPI, SQL. 
+
+  - **Institut Jean Lamour (IJL)** – Stagiaire en recherche *(janv. 2019 – avr. 2019)*  
+  - Stage en génie biomédical sur les capteurs biomédicaux.  
+  - Étude et expérimentation de systèmes électroniques pour l’analyse biomédicale.  
+  - Contribution à la documentation scientifique du laboratoire.  
+  **Compétences** : Génie biomédical, électronique.
+
+  - **Real Time Sportscast** – Commentateur sportif *(août 2019 – oct. 2021)*  
+  - Mission freelance réalisée entièrement en anglais.  
+  - Présence sur le terrain pour fournir des commentaires en temps réel.  
+  - Réalisation d’interviews avec partenaires et supporters.  
+  - Rédaction d’articles et de résumés pour le site sur l’événement.  
+  **Compétences** : Organisation, communication, anglais. 
       `,
       
-      skills: "💻 Compétences Techniques",
+      skills: "Compétences Techniques",
       skillsContent: `
-**Langages** : Python, SQL, JavaScript, TypeScript
+**Langages** : Python, SQL, JavaScript, TypeScript, Java, C/C++  
 
-**ML/DL** : TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy
+**Machine Learning & Deep Learning** : Scikit-learn, TensorFlow, PyTorch, Keras  
 
-**Outils** : Jupyter, Git, Docker, Google Colab, Streamlit
+**Data & Analyse** : Pandas, NumPy, Matplotlib, Seaborn  
 
-**Domaines** : Machine Learning, Deep Learning, Computer Vision, NLP, Data Analysis
+**Data Visualization** : Plotly, Dash, Chart.js, D3js 
+
+**Backend & APIs** : FastAPI, Flask
+
+**Frontend** : Angular, React  
+
+**Outils & Environnements** : Git, Docker, Jupyter Notebook, Google Colab, VS Code  
+
+**Bases de données** : PostgreSQL, MySQL, MongoDB  
+
+**Méthodologies** : Data preprocessing, Feature engineering, Model evaluation, Optimization  
+
+**Domaines** : Machine Learning, Deep Learning, Computer Vision, NLP, Data Analysis, Data Visualization, Software Engineering  
+
       `,
     },
 
@@ -158,13 +189,13 @@ Entreprise | Durée : 3 mois
   },
 
   en: {
-    name: "Channel NIANGA",
-    title: "Data Scientist & AI Engineer",
-    description: "🎓 Master's student in Computer Science specializing in Artificial Intelligence | Seeking final year internship | Available from March 2026",
-    email: "channeliba@yahoo.com",
-    location: "Caen, France",
-    github: "https://github.com/Niabbach",
-    linkedin: "https://www.linkedin.com/in/channel-nianga-44095615b",
+  name: "Channel NIANGA",
+  title: "AI Engineer & Data Scientist",
+  description: "AI Engineer and Data professional with experience in fullstack development and building robust software systems. Master’s degree holder in Computer Science, specialized in Artificial Intelligence. Open to full-time opportunities starting September 2026.",
+  email: "channeliba@yahoo.com",
+  location: "Caen, France",
+  github: "https://github.com/Niabbach",
+  linkedin: "https://www.linkedin.com/in/channel-nianga-44095615b",
     
     nav: {
       home: "🏠 Home",
@@ -175,65 +206,94 @@ Entreprise | Durée : 3 mois
 
     home: {
       title: "🌱 Welcome to my portfolio!",
-      subtitle: "Expert in Artificial Intelligence, Machine Learning and Deep Learning",
-      intro: "My name is **Channel NIANGA**, a passionate **Master's student in Computer Science**, specializing in **Artificial Intelligence**. Currently seeking a final year internship. My goal? **Contribute to innovative AI projects**, whether in *machine learning*, *deep learning*, *natural language processing (NLP)* or *computer vision*.",
-      
+      subtitle: "AI Engineer specialized in Machine Learning and Deep Learning",
+      intro: "My name is Channel NIANGA, an AI Engineer with a strong background in computer science and software engineering. I have experience in designing and building robust data-driven systems. My areas of interest include machine learning, deep learning, natural language processing (NLP), and computer vision. I am currently open to full-time opportunities starting September 2026.",
       whoAmI: {
         title: "🔍 Who am I?",
-        content: "An AI student with a solid foundation in algorithms, statistics and modeling. Experienced Python developer with TensorFlow, PyTorch and Scikit-learn. Curious and rigorous, I love exploring new methods to solve complex problems.",
+        content: "AI Engineer with a strong foundation in algorithms, statistics, and modeling. Experienced Python developer, proficient with frameworks such as TensorFlow, PyTorch, and Scikit-learn. Curious and rigorous, I design and explore solutions to solve complex problems."
       },
       
       whatYouWillFind: {
         title: "🛠 What you will find here",
-        content: "My academic and personal AI projects (classification, prediction, data generation, etc.). My technical skills (Python, SQL, model optimization...). My background, experiences, and ambitions for a **Master's 2 internship**.",
+        content: "My academic and personal projects in artificial intelligence (classification, prediction, data generation, etc.), along with my technical skills (Python, SQL, model optimization...). You will also find my background, experience, and professional ambitions as an AI Engineer."
       },
       
       contact: {
-        title: "📫 Want to chat?",
+        title: "Want to chat?",
         content: "Contact me on LinkedIn or send me an email. Or go to the Contact section to send me a message.",
       },
       
-      quote: "AI is a powerful tool to shape tomorrow — I can't wait to contribute to it.",
+      quote: "AI is a powerful tool to shape tomorrow, I can't wait to contribute to it.",
     },
 
     cv: {
       title: "📄 My Resume",
       download: "📥 Download Resume",
       
-      education: "🎓 Education",
+      education: "Education",
       educationContent: `
-**Master's 2 in Computer Science - Artificial Intelligence**
-University of Caen Normandy | 2024-2026
-Specializations: Machine Learning, Deep Learning, Computer Vision, NLP
+- **Master’s Degree in Computer Science specialized in Artificial Intelligence**  
+  University of Caen Normandy *(2026)*  
 
-**Bachelor's in Computer Science**
-University of Caen Normandy | 2021-2024
-Honors
+- **Bachelor’s Degree in Computer Science**  
+  CNAM Paris *(2023)*  
+
+- **Bachelor’s Degree in Engineering Sciences**  
+  University of Lorraine, Nancy *(2020)*
       `,
       
-      experience: "💼 Experience",
+      experience: "Experience",
       experienceContent: `
-**Data Science Internship** (2025)
-Company | Duration: 3 months
-- Development of machine learning models
-- Data analysis and visualization
-- Data pipeline optimization
+- **Liebherr Aerospace Toulouse** – Full Stack Engineer *(March 2026 – September 2026)*  
+  - Designed and developed data visualization tools for analyzing complex aeronautical system simulations.  
+  - Built interactive front-end interfaces to present large-scale simulation data in a clear and usable way.  
+  - Developed a Python backend for data processing, structuring, and API exposure.  
+  - Collaborated with system engineering teams to define requirements and improve model exploitation.  
+  - Performed testing, validation, and technical documentation.  
+  **Tech Stack** : Angular(TypeScript,HTML/CSS), Python, Pytest, Pandas, FastAPI, Plotly, Selenuim, Git.  
 
-**Academic Project - Computer Vision** (2024)
-- Image classification with CNN
-- TensorFlow and PyTorch usage
-- Results: 94% accuracy
+- **SNCF Réseau** – Full Stack Developer *(Sep 2020 – Nov 2023)*  
+  - Developed web applications and APIs for railway employees.  
+  - Performed data analysis and automated reporting processes.  
+  - Communicated analytical results to stakeholders.  
+  - Implemented automated controls to optimize processes.  
+  **Tech Stack**: Angular (HTML, CSS, TypeScript), Git, Python, Pandas, FastAPI, SQL.  
+
+- **Institut Jean Lamour (IJL)** – Research Intern *(Jan 2019 – Apr 2019)*  
+  - Conducted research in biomedical engineering focused on biomedical sensors.  
+  - Studied and experimented with electronic systems for biomedical analysis.  
+  - Contributed to scientific documentation within the laboratory.  
+  **Skills**: Biomedical engineering, electronics.  
+
+  - **Real Time Sportscast** – Sports Commentator *(Aug 2019 – Oct 2021)*  
+  - Freelance role conducted entirely in English.  
+  - Provided live commentary during sports events.  
+  - Conducted interviews with partners and supporters.  
+  - Wrote articles and summaries for the event platform.  
+  **Skills**: Organization, communication, English. 
       `,
       
-      skills: "💻 Technical Skills",
+      skills: "Technical Skills",
       skillsContent: `
-**Languages**: Python, SQL, JavaScript, TypeScript
+**Programming Languages**: Python, SQL, JavaScript, TypeScript, Java, C/C++  
 
-**ML/DL**: TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy
+**Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, PyTorch, Keras  
 
-**Tools**: Jupyter, Git, Docker, Google Colab, Streamlit
+**Data & Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
 
-**Domains**: Machine Learning, Deep Learning, Computer Vision, NLP, Data Analysis
+**Data Visualization**: Plotly, Dash, Chart.js, D3js  
+
+**Backend & APIs**: FastAPI, Flask, REST APIs  
+
+**Frontend**: Angular, React 
+
+**Tools & Environments**: Git, Docker, Jupyter Notebook, Google Colab, VS Code  
+
+**Databases**: PostgreSQL, MySQL, MongoDB  
+
+**Methodologies**: Data preprocessing, Feature engineering, Model evaluation, Optimization  
+
+**Domains**: Machine Learning, Deep Learning, Computer Vision, NLP, Data Analysis, Data Visualization, Software Engineering  
       `,
     },
 
